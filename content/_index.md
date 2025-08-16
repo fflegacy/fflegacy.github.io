@@ -9,7 +9,7 @@ a winning team this season.
 ## Yahoo
 
 We are using Yahoo to manage our league. You can find our league at the
-following URL: http://football.fantasysports.yahoo.com/league/fflegacy
+following URL: https://football.fantasysports.yahoo.com/league/fflegacy
 
 While Yahoo already has details on many of the rules in this rulebook, we keep a
 copy here written in plain English so everyone has a firm understanding of
