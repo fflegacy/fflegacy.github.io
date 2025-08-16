@@ -13,7 +13,7 @@ hugo server
 
 ## Publish
 
-TBD
+Changes are published immediately once they are merged into trunk.
 
 ## Maintenance
 
