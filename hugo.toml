@@ -1,0 +1,4 @@
+baseURL = 'https://fflegacy.github.io/'
+languageCode = 'en-us'
+title = 'FFLegacy Rules and Regulations'
+theme = 'blowfish'
