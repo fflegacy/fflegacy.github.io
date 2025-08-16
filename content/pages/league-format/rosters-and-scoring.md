@@ -1,6 +1,5 @@
 +++
 title = 'Rosters and Scoring'
-showDate = false
 +++
 
 ## Roster Positions

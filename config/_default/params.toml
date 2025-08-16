@@ -1,0 +1,6 @@
+[homepage]
+layout = "card"
+homepageImage = "fflegacy.png"
+
+[article]
+showDate = false

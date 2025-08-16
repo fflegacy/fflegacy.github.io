@@ -1,0 +1,14 @@
+[[main]]
+name = "Home"
+url = "/"
+weight = 10
+
+[[main]]
+name = "League Format"
+weight = 20
+
+[[main]]
+name = "Rosters and Scoring"
+parent = "League Format"
+pageRef = "rosters-and-scoring"
+weight = 20
