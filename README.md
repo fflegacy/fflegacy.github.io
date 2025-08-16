@@ -5,6 +5,21 @@
 - [Go](https://go.dev/doc/install)
 - [Hugo](https://gohugo.io/getting-started/quick-start/)
 
+## Setup
+
+Setup w/ submodules:
+
+```shell
+git clone --recurse-submodules git@github.com:fflegacy/fflegacy.github.io.git
+cd fflegacy.github.io
+```
+
+Update submodules if you already cloned:
+
+```shell
+git submodule update --init
+```
+
 ## Development
 
 ```shell
