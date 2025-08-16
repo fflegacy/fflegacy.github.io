@@ -1,5 +1,6 @@
 enableSearch = true
 defaultSocialImage = "fflegacy.png"
+smartTOC = true
 
 [homepage]
 layout = "card"
@@ -7,3 +8,4 @@ homepageImage = "fflegacy.png"
 
 [article]
 showDate = false
+showTableOfContents = true
