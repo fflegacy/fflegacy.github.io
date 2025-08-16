@@ -1,5 +1,5 @@
 # https://blowfish.page/docs/configuration/
-theme = "blowfish"
+theme = ["hugo-admonitions", "blowfish"]
 baseURL = "https://docs.fflegacy.club/"
 title = "FFLegacy Docs"
 colorScheme = "forest"

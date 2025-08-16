@@ -29,3 +29,4 @@ git submodule update --remote --merge
 
 - [Blowfish Theme](https://blowfish.page/docs/)
 - [Host Hugo on GitHub Pages](https://gohugo.io/host-and-deploy/host-on-github-pages/)
+- [Hugo Admonitions](https://github.com/KKKZOZ/hugo-admonitions)
