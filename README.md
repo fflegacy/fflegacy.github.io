@@ -11,6 +11,8 @@
 hugo server
 ```
 
+Then go to http://localhost:1313/.
+
 ## Publish
 
 Changes are published immediately once they are merged into trunk.

@@ -1,7 +1,20 @@
 baseURL = 'https://fflegacy.github.io/'
 languageCode = 'en-us'
-title = 'FFLegacy Rules and Regulations'
+title = 'FFLegacy Docs'
 theme = 'blowfish'
+
+[menu]
+[[menu.main]]
+name = 'Home'
+url = '/'
+weight = 10
+[[menu.main]]
+name = 'League Format'
+pageRef = 'pages/league-format/rosters-and-scoring'
+weight = 20
+
+[params]
+colorScheme = "avocado"
 
 [caches]
 [caches.images]
