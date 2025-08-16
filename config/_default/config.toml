@@ -3,7 +3,6 @@ theme = ["hugo-admonitions", "blowfish"]
 baseURL = "https://docs.fflegacy.club/"
 title = "FFLegacy Docs"
 colorScheme = "forest"
-defaultSocialImage = "fflegacy.png"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]

@@ -1,8 +1,9 @@
+enableSearch = true
+defaultSocialImage = "fflegacy.png"
+
 [homepage]
 layout = "card"
 homepageImage = "fflegacy.png"
 
 [article]
 showDate = false
-
-enableSearch = true
