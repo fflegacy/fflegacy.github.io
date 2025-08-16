@@ -4,3 +4,5 @@ homepageImage = "fflegacy.png"
 
 [article]
 showDate = false
+
+enableSearch = true
