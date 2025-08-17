@@ -9,3 +9,7 @@ homepageImage = "fflegacy.png"
 [article]
 showDate = false
 showTableOfContents = true
+
+[list]
+cardView = true
+groupByYear = false
