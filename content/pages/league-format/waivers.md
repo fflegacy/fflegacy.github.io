@@ -4,9 +4,10 @@ title = 'Waivers'
 
 ## Description
 
-This league uses game-time waivers i.e. a player gets added to the Waiver Wire
-once their game starts until the Waiver Period ends on Tuesday at 11:59 Pacific
-Time.
+This league uses
+[game-time waivers](https://help.yahoo.com/kb/game---tuesday-sln7129.html)
+i.e. a player gets added to the Waiver Wire once their game starts until the
+Waiver Period ends on Tuesday at 11:59 Pacific Time.
 
 When a player is dropped, they get added to the Waiver Wire and are kept there
 for a minimum of 1 day. That player can be kept on the Waiver Wire for more than
