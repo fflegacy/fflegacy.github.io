@@ -73,7 +73,6 @@ title = 'Rosters and Scoring'
 | Pass Defended        | 2 points            |
 | Block Kick           | 6 points            |
 | Tackle for Loss      | 3 points            |
-| Extra Point Returned | 2 points            |
 
 
 ### Specifics
